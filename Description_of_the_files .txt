@@ -1,0 +1,23 @@
+evalglare_read01.py - a script in python has been created to open the output file from evalglare.  
+
+evalglare_read02.py - Optimization of the evalglare read script
+
+evalglare_read03.py - Optimization of the evalglare read script
+
+Geometri06.gh - preparing the geometry in order to create the HDR images and set up the view directions
+
+Geometri08.gh -Intersections points by using rtrace.  
+
+Geometri10.gh -It is examined how the output should look like for the intersection points. 
+I have tried to use a component from lunch box where the intersection points is saved in a layer in rhino and visualised.
+
+Geometri12.gh -It is tried to create a run Evalglare component and how the the intersection points and photometric values
+can be merged to one list
+
+GazeVisualizerTool - The finished tool 
+
+Geometry - Test zone 
+
+USA.epw - Weather data file 
+
+
